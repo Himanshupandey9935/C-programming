@@ -1,5 +1,6 @@
        
-       /* VARIABLE = a variable is a named storage location which store some data*/
+       /*              THIS CODE DIPLAYS HOW VARIABLE WORKS IN C  
+        VARIABLE = a variable is a named storage location which store some data*/
 
 #include <stdio.h>
 
